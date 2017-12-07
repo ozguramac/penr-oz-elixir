@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Ignore files
+.*ignore
+
+# Docker
+Dockerfile*
+docker-*.yml
+.env
